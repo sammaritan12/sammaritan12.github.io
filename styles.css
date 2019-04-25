@@ -20,6 +20,6 @@ p {
     background-image: url("img/martin-adams-1480231-unsplash_compress.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
-    /* background-size: cover;  */
+    background-attachment: scroll;
+    background-size: cover; 
 }
