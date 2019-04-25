@@ -11,7 +11,7 @@ p {
     text-align: justify;
 }
 
-.jumbotron {
+.jumbo-bg {
     height: 100vh;
     display: flex;
     justify-content: center;
