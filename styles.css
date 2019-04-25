@@ -18,7 +18,7 @@ p {
     align-items: center;
 
     /* Background Image with blur */
-    background-image: url("img/martin-adams-1480231-unsplash.jpg");
+    background-image: url("img/martin-adams-1480231-unsplash_compress.jpg");
     background-size: cover;
     /* background-position: center; */
     background-repeat: no-repeat;
