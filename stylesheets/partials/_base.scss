@@ -1,17 +1,3 @@
-@import "../stylesheets/fontawesome/all.min";
-@import "../stylesheets/bootstrap/bootstrap.min";
-
-// Fonts
-$main-font: 'Montserrat', sans-serif;
-$heading-font:'Merriweather', serif;
-
-// Icon Colours
-$github-color: #211f1f;
-$linkedin-color: #4875B4;
-$instagram-color: #4E433C;
-$youtube-color: #FF3333;
-$email-color: #0072c6;
-
 body {
     font-family: $main-font;
     font-size: 20px;
