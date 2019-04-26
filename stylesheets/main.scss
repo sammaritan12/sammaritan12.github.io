@@ -1,9 +1,11 @@
+// Third Party
+@import "../stylesheets/vendor/fontawesome/fontawesome";
+@import "../stylesheets/vendor/fontawesome/brands";
+@import "../stylesheets/vendor/fontawesome/solid";
+@import "../stylesheets/vendor/bootstrap/bootstrap.scss";
+
 // Modules and Variables
 @import "modules/all";
 
 // Partials
 @import "partials/base";
-
-// Third Party
-@import "../stylesheets/vendor/fontawesome/all.min";
-@import "../stylesheets/vendor/bootstrap/bootstrap.min";
