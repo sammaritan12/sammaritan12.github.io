@@ -15386,19 +15386,6 @@ h3 {
     border-color: #dee2e6;
   }
 }
-body {
-  font-family: "Montserrat", sans-serif;
-  font-size: 20px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Merriweather", serif;
-}
-
-p {
-  text-align: justify;
-}
-
 .jumbo-bg {
   height: 100vh;
   display: flex;
@@ -15444,6 +15431,19 @@ p {
 }
 .email-icon:hover {
   color: #0072c6;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Merriweather", serif;
+}
+
+p {
+  text-align: justify;
 }
 
 /*# sourceMappingURL=styles.css.map */
