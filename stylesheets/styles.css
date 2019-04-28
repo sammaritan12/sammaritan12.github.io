@@ -15394,10 +15394,15 @@ h3 {
   background-image: url("../img/martin-adams-1480231-unsplash_compress.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
 }
 
+@media (min-width: 992px) {
+  .jumbo-bg {
+    background-attachment: fixed;
+  }
+}
 .github-icon {
   color: #211f1f;
 }
