@@ -1,6 +1,6 @@
 # sammaritan12.github.io
 
-My personal website, built with Bootstrap, HTML5,jQuery, Popper.js
+My personal website, built with HTML5UP template: Hyperspace
 
 Includes:
 - GitHub Link
@@ -8,5 +8,4 @@ Includes:
 - LinkedIn Link
 - Instagram Link
 - Profile Photo
-- What I've done
 - Who I am
